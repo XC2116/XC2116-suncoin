@@ -331,6 +331,7 @@ Part.5-尾声    ◎
 
 ---
 **版权与许可 (Copyright & License)**
+
 <a href="https://github.com/XC2116/XC2116-suncoin/blob/main/sun-coin.md">太阳钱币法则(Sun Coin Rule)◎</a> © 2025-06-02 by <a href="https://github.com/XC2116">灏宇(XC2116)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ---
