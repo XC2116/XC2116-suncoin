@@ -321,10 +321,26 @@ Part.5-尾声    ◎
 ![公众号排版版本](assets/typesetting.png)
 
 
-CC协议：
+---
+**版权与许可 (Copyright & License)**
 
-<a href="https://github.com/XC2116/XC2116-suncoin/blob/main/sun-coin.md">太阳钱币法则(Sun Coin Rule)◎</a> © 2025-06-02 by <a href="https://github.com/XC2116">灏宇(XC2116)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+本作品《<a href="https://github.com/XC2116/XC2116-suncoin/blob/main/sun-coin.md">太阳钱币法则(Sun Coin Rule)◎</a>》由 <a href="https://github.com/XC2116">灏宇(XC2116)</a> 创作。
+创作年份：2025
 
+本作品采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" rel="license noopener noreferrer" style="display:inline-block;">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a> 进行许可。
 
+---
+**商业使用与合作联系**
 
+本人（灏宇(XC2116)）通过知识共享（Creative Commons）许可发布的，标记为‘非商业性使用 (NC)’的作品（例如本文《太阳钱币法则(Sun Coin Rule)◎》），其商业使用权需与本人单独协商。如果您希望将此类作品用于商业目的，或有其他合作意向，请通过以下方式联系我：
+邮箱：1712919502@qq.com
+温馨提示：为确保您的邮件被及时处理，如发送三天后未收到回复，欢迎通过您发现本作品的平台的留言功能或已知其他渠道提醒我查收邮件。您也可以在发送邮件后即留言告知。
+
+---
+**作者信息与作品存档声明**
+
+作者：灏宇(XC2116)
+本作已尝试在互联网档案库 (Internet Archive - archive.org) 进行存档。
+建议读者将感兴趣的作品进行个人备份。
+© 2025 灏宇(XC2116). 保留所有权利。
 
