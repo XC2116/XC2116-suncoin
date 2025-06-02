@@ -346,6 +346,7 @@ Part.5-尾声    ◎
 
 作者：灏宇(XC2116)
 本作已尝试在互联网档案库 (Internet Archive - archive.org) 进行存档。
+/web/20250602124824/https://github.com/XC2116/XC2116-suncoin/blob/main/sun-coin.md
 也建议读者将感兴趣的作品进行个人备份。
 © 2025 灏宇(XC2116). 保留所有权利。
 
